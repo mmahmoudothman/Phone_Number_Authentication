@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "873954956666",
+    "firebase_url": "https://blogapp-c439f.firebaseio.com",
+    "project_id": "blogapp-c439f",
+    "storage_bucket": "blogapp-c439f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873954956666:android:816d386950f3ace8",
+        "android_client_info": {
+          "package_name": "com.angular.gerardosuarez.carpoolingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873954956666-4lpcjgb1ni1mgp4g1k3mu932uos88qit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angular.gerardosuarez.carpoolingapp",
+            "certificate_hash": "57e0421c31b88f67403a646ff05c813adc514ecd"
+          }
+        },
+        {
+          "client_id": "873954956666-0ea4vku0saa6r13lcvsrko0n93bkppaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angular.gerardosuarez.carpoolingapp",
+            "certificate_hash": "72e89d7af4b03dc7d6e6349ee45aa9806020884e"
+          }
+        },
+        {
+          "client_id": "873954956666-22sfhafk8oaaga86hbgn4dpd0vaar33p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYuMj5N_OBtIOJyjUwoPLQL36UyBtmZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873954956666-22sfhafk8oaaga86hbgn4dpd0vaar33p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873954956666:android:40b76b09a72f7d7aa8f2c3",
+        "android_client_info": {
+          "package_name": "com.example.loginwithphonenumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873954956666-3dju2p7g63jdl6u3gq32964rqcb6veu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginwithphonenumber",
+            "certificate_hash": "70a9d32545484799847d3e0c36d38a0d42e29d7d"
+          }
+        },
+        {
+          "client_id": "873954956666-22sfhafk8oaaga86hbgn4dpd0vaar33p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYuMj5N_OBtIOJyjUwoPLQL36UyBtmZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873954956666-22sfhafk8oaaga86hbgn4dpd0vaar33p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873954956666:android:151b04a497c2f111",
+        "android_client_info": {
+          "package_name": "com.example.osos.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873954956666-5b0tgk70kl0qdq2a9tbmiifijifio3s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.osos.myapplication",
+            "certificate_hash": "70a4189b25c0d0ff27cc40798c93fd1c528eb1a8"
+          }
+        },
+        {
+          "client_id": "873954956666-22sfhafk8oaaga86hbgn4dpd0vaar33p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYuMj5N_OBtIOJyjUwoPLQL36UyBtmZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873954956666-22sfhafk8oaaga86hbgn4dpd0vaar33p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873954956666:android:72d68b00094b7b15a8f2c3",
+        "android_client_info": {
+          "package_name": "com.tvacstudio.phonenumberauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873954956666-22sfhafk8oaaga86hbgn4dpd0vaar33p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYuMj5N_OBtIOJyjUwoPLQL36UyBtmZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873954956666-22sfhafk8oaaga86hbgn4dpd0vaar33p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
